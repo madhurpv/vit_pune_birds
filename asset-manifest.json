@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vit_pune_birds/static/css/main.388524da.css",
-    "main.js": "/vit_pune_birds/static/js/main.2016bc82.js",
+    "main.js": "/vit_pune_birds/static/js/main.a7865b9c.js",
     "static/js/787.44923a31.chunk.js": "/vit_pune_birds/static/js/787.44923a31.chunk.js",
     "static/media/brand-icons.svg": "/vit_pune_birds/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/vit_pune_birds/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -12,6 +12,7 @@
     "static/media/brand-icons.ttf": "/vit_pune_birds/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
     "static/media/IndianWhiteEye.jpg": "/vit_pune_birds/static/media/IndianWhiteEye.7bb5f096ed3ff2d5791c.jpg",
     "static/media/CinereousTit.jpg": "/vit_pune_birds/static/media/CinereousTit.0190670fb4e0b0c64a3b.jpg",
+    "static/media/CommonMyna.jpg": "/vit_pune_birds/static/media/CommonMyna.e652309c739f80dc9811.jpg",
     "static/media/RoseRingedParakeet.jpg": "/vit_pune_birds/static/media/RoseRingedParakeet.57aeaef9bf7df14bc1fd.jpg",
     "static/media/BlueRockPigeon.jpg": "/vit_pune_birds/static/media/BlueRockPigeon.7c1209e8fecfb1bf0538.jpg",
     "static/media/brand-icons.woff": "/vit_pune_birds/static/media/brand-icons.cac87dc00c87a5d74711.woff",
@@ -44,11 +45,11 @@
     "static/media/outline-icons.woff2": "/vit_pune_birds/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/vit_pune_birds/index.html",
     "main.388524da.css.map": "/vit_pune_birds/static/css/main.388524da.css.map",
-    "main.2016bc82.js.map": "/vit_pune_birds/static/js/main.2016bc82.js.map",
+    "main.a7865b9c.js.map": "/vit_pune_birds/static/js/main.a7865b9c.js.map",
     "787.44923a31.chunk.js.map": "/vit_pune_birds/static/js/787.44923a31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.388524da.css",
-    "static/js/main.2016bc82.js"
+    "static/js/main.a7865b9c.js"
   ]
 }
