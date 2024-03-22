@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vit_pune_birds/static/css/main.388524da.css",
-    "main.js": "/vit_pune_birds/static/js/main.cea3da73.js",
+    "main.js": "/vit_pune_birds/static/js/main.8e5959ac.js",
     "static/js/787.44923a31.chunk.js": "/vit_pune_birds/static/js/787.44923a31.chunk.js",
     "static/media/brand-icons.svg": "/vit_pune_birds/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/vit_pune_birds/static/media/icons.62d9dae4e0040e81c980.svg",
@@ -47,11 +47,11 @@
     "static/media/outline-icons.woff2": "/vit_pune_birds/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/vit_pune_birds/index.html",
     "main.388524da.css.map": "/vit_pune_birds/static/css/main.388524da.css.map",
-    "main.cea3da73.js.map": "/vit_pune_birds/static/js/main.cea3da73.js.map",
+    "main.8e5959ac.js.map": "/vit_pune_birds/static/js/main.8e5959ac.js.map",
     "787.44923a31.chunk.js.map": "/vit_pune_birds/static/js/787.44923a31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.388524da.css",
-    "static/js/main.cea3da73.js"
+    "static/js/main.8e5959ac.js"
   ]
 }
